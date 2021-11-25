@@ -1,0 +1,139 @@
+> Task :app:signingReport
+Variant: debug
+Config: debug
+Store: C:\Users\Fernando\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: D0:36:AB:15:A3:DA:EA:6E:FF:2B:D6:DC:A9:DF:39:9F
+SHA1: 51:86:95:F1:9C:18:50:CA:5E:16:D2:79:49:DA:6B:72:81:50:A3:8C
+SHA-256: AC:F9:34:6F:6B:FC:34:12:BF:3E:7F:8F:42:A5:84:92:8C:2B:25:16:24:CD:55:11:E0:8A:A6:BB:2E:B6:77:7D
+Valid until: quarta-feira, 12 de janeiro de 2050
+----------
+Variant: release
+Config: debug
+Store: C:\Users\Fernando\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: D0:36:AB:15:A3:DA:EA:6E:FF:2B:D6:DC:A9:DF:39:9F
+SHA1: 51:86:95:F1:9C:18:50:CA:5E:16:D2:79:49:DA:6B:72:81:50:A3:8C
+SHA-256: AC:F9:34:6F:6B:FC:34:12:BF:3E:7F:8F:42:A5:84:92:8C:2B:25:16:24:CD:55:11:E0:8A:A6:BB:2E:B6:77:7D
+Valid until: quarta-feira, 12 de janeiro de 2050
+----------
+Variant: profile
+Config: debug
+Store: C:\Users\Fernando\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: D0:36:AB:15:A3:DA:EA:6E:FF:2B:D6:DC:A9:DF:39:9F
+SHA1: 51:86:95:F1:9C:18:50:CA:5E:16:D2:79:49:DA:6B:72:81:50:A3:8C
+SHA-256: AC:F9:34:6F:6B:FC:34:12:BF:3E:7F:8F:42:A5:84:92:8C:2B:25:16:24:CD:55:11:E0:8A:A6:BB:2E:B6:77:7D
+Valid until: quarta-feira, 12 de janeiro de 2050
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Fernando\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: D0:36:AB:15:A3:DA:EA:6E:FF:2B:D6:DC:A9:DF:39:9F
+SHA1: 51:86:95:F1:9C:18:50:CA:5E:16:D2:79:49:DA:6B:72:81:50:A3:8C
+SHA-256: AC:F9:34:6F:6B:FC:34:12:BF:3E:7F:8F:42:A5:84:92:8C:2B:25:16:24:CD:55:11:E0:8A:A6:BB:2E:B6:77:7D
+Valid until: quarta-feira, 12 de janeiro de 2050
+----------
+Variant: debugUnitTest
+Config: debug
+Store: C:\Users\Fernando\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: D0:36:AB:15:A3:DA:EA:6E:FF:2B:D6:DC:A9:DF:39:9F
+SHA1: 51:86:95:F1:9C:18:50:CA:5E:16:D2:79:49:DA:6B:72:81:50:A3:8C
+SHA-256: AC:F9:34:6F:6B:FC:34:12:BF:3E:7F:8F:42:A5:84:92:8C:2B:25:16:24:CD:55:11:E0:8A:A6:BB:2E:B6:77:7D
+Valid until: quarta-feira, 12 de janeiro de 2050
+----------
+Variant: releaseUnitTest
+Config: debug
+Store: C:\Users\Fernando\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: D0:36:AB:15:A3:DA:EA:6E:FF:2B:D6:DC:A9:DF:39:9F
+SHA1: 51:86:95:F1:9C:18:50:CA:5E:16:D2:79:49:DA:6B:72:81:50:A3:8C
+SHA-256: AC:F9:34:6F:6B:FC:34:12:BF:3E:7F:8F:42:A5:84:92:8C:2B:25:16:24:CD:55:11:E0:8A:A6:BB:2E:B6:77:7D
+Valid until: quarta-feira, 12 de janeiro de 2050
+----------
+Variant: profileUnitTest
+Config: debug
+Store: C:\Users\Fernando\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: D0:36:AB:15:A3:DA:EA:6E:FF:2B:D6:DC:A9:DF:39:9F
+SHA1: 51:86:95:F1:9C:18:50:CA:5E:16:D2:79:49:DA:6B:72:81:50:A3:8C
+SHA-256: AC:F9:34:6F:6B:FC:34:12:BF:3E:7F:8F:42:A5:84:92:8C:2B:25:16:24:CD:55:11:E0:8A:A6:BB:2E:B6:77:7D
+Valid until: quarta-feira, 12 de janeiro de 2050
+----------
+
+> Task :flutter_secure_storage:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Fernando\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: D0:36:AB:15:A3:DA:EA:6E:FF:2B:D6:DC:A9:DF:39:9F
+SHA1: 51:86:95:F1:9C:18:50:CA:5E:16:D2:79:49:DA:6B:72:81:50:A3:8C
+SHA-256: AC:F9:34:6F:6B:FC:34:12:BF:3E:7F:8F:42:A5:84:92:8C:2B:25:16:24:CD:55:11:E0:8A:A6:BB:2E:B6:77:7D
+Valid until: quarta-feira, 12 de janeiro de 2050
+----------
+Variant: debugUnitTest
+Config: debug
+Store: C:\Users\Fernando\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: D0:36:AB:15:A3:DA:EA:6E:FF:2B:D6:DC:A9:DF:39:9F
+SHA1: 51:86:95:F1:9C:18:50:CA:5E:16:D2:79:49:DA:6B:72:81:50:A3:8C
+SHA-256: AC:F9:34:6F:6B:FC:34:12:BF:3E:7F:8F:42:A5:84:92:8C:2B:25:16:24:CD:55:11:E0:8A:A6:BB:2E:B6:77:7D
+Valid until: quarta-feira, 12 de janeiro de 2050
+----------
+Variant: releaseUnitTest
+Config: debug
+Store: C:\Users\Fernando\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: D0:36:AB:15:A3:DA:EA:6E:FF:2B:D6:DC:A9:DF:39:9F
+SHA1: 51:86:95:F1:9C:18:50:CA:5E:16:D2:79:49:DA:6B:72:81:50:A3:8C
+SHA-256: AC:F9:34:6F:6B:FC:34:12:BF:3E:7F:8F:42:A5:84:92:8C:2B:25:16:24:CD:55:11:E0:8A:A6:BB:2E:B6:77:7D
+Valid until: quarta-feira, 12 de janeiro de 2050
+----------
+Variant: profileUnitTest
+Config: debug
+Store: C:\Users\Fernando\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: D0:36:AB:15:A3:DA:EA:6E:FF:2B:D6:DC:A9:DF:39:9F
+SHA1: 51:86:95:F1:9C:18:50:CA:5E:16:D2:79:49:DA:6B:72:81:50:A3:8C
+SHA-256: AC:F9:34:6F:6B:FC:34:12:BF:3E:7F:8F:42:A5:84:92:8C:2B:25:16:24:CD:55:11:E0:8A:A6:BB:2E:B6:77:7D
+Valid until: quarta-feira, 12 de janeiro de 2050
+----------
+
+> Task :path_provider:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Fernando\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: D0:36:AB:15:A3:DA:EA:6E:FF:2B:D6:DC:A9:DF:39:9F
+SHA1: 51:86:95:F1:9C:18:50:CA:5E:16:D2:79:49:DA:6B:72:81:50:A3:8C
+SHA-256: AC:F9:34:6F:6B:FC:34:12:BF:3E:7F:8F:42:A5:84:92:8C:2B:25:16:24:CD:55:11:E0:8A:A6:BB:2E:B6:77:7D
+Valid until: quarta-feira, 12 de janeiro de 2050
+----------
+Variant: debugUnitTest
+Config: debug
+Store: C:\Users\Fernando\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: D0:36:AB:15:A3:DA:EA:6E:FF:2B:D6:DC:A9:DF:39:9F
+SHA1: 51:86:95:F1:9C:18:50:CA:5E:16:D2:79:49:DA:6B:72:81:50:A3:8C
+SHA-256: AC:F9:34:6F:6B:FC:34:12:BF:3E:7F:8F:42:A5:84:92:8C:2B:25:16:24:CD:55:11:E0:8A:A6:BB:2E:B6:77:7D
+Valid until: quarta-feira, 12 de janeiro de 2050
+----------
+Variant: releaseUnitTest
+Config: debug
+Store: C:\Users\Fernando\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: D0:36:AB:15:A3:DA:EA:6E:FF:2B:D6:DC:A9:DF:39:9F
+SHA1: 51:86:95:F1:9C:18:50:CA:5E:16:D2:79:49:DA:6B:72:81:50:A3:8C
+SHA-256: AC:F9:34:6F:6B:FC:34:12:BF:3E:7F:8F:42:A5:84:92:8C:2B:25:16:24:CD:55:11:E0:8A:A6:BB:2E:B6:77:7D
+Valid until: quarta-feira, 12 de janeiro de 2050
+----------
+Variant: profileUnitTest
+Config: debug
+Store: C:\Users\Fernando\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: D0:36:AB:15:A3:DA:EA:6E:FF:2B:D6:DC:A9:DF:39:9F
+SHA1: 51:86:95:F1:9C:18:50:CA:5E:16:D2:79:49:DA:6B:72:81:50:A3:8C
+SHA-256: AC:F9:34:6F:6B:FC:34:12:BF:3E:7F:8F:42:A5:84:92:8C:2B:25:16:24:CD:55:11:E0:8A:A6:BB:2E:B6:77:7D
+Valid until: quarta-feira, 12 de janeiro de 2050

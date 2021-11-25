@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "943472361633",
+    "project_id": "processo-seletivo-4feab",
+    "storage_bucket": "processo-seletivo-4feab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943472361633:android:5b2df0db1417af5c33b0e0",
+        "android_client_info": {
+          "package_name": "com.br.processo_seletivo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943472361633-advsib8rvqbtd4c359jlp5camqb5ujqm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.br.processo_seletivo",
+            "certificate_hash": "518695f19c1850ca5e16d27949da6b728150a38c"
+          }
+        },
+        {
+          "client_id": "943472361633-nm6976qm74v6bkj47q3tm1c6468iqeu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbtCPEf9LkL10LTpGnXqzRxginfcRDV14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943472361633-nm6976qm74v6bkj47q3tm1c6468iqeu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
