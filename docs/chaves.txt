@@ -1,3 +1,4 @@
+
 > Task :app:signingReport
 Variant: debug
 Config: debug
