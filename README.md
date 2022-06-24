@@ -1,4 +1,4 @@
-# API para processo seletivo GranConcursos
+# API para processo seletivo GranCursos
 ####Desenvolvida por Fernando Ferreira
 
 * ###[Requisitos](#Requisitos)
